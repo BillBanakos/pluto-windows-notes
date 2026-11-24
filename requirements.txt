@@ -1,0 +1,3 @@
+numpy>=1.24
+pyadi-iio
+pylibiio==0.25   # must match the system libiio C library, see README #5
